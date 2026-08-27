@@ -6,7 +6,7 @@ The repository combines web scraping, computer vision template matching via Open
 
 ---
 
-## 🛠️ How It Works & Architecture
+## How It Works & Architecture
 
 The codebase was mainly written by **Google Gemini**, built step-by-step using custom-designed logic and workflows:
 
@@ -17,11 +17,11 @@ The codebase was mainly written by **Google Gemini**, built step-by-step using c
 
 ---
 
-## 📜 Initial Prompts & AI Attribution
+## Initial Prompts & AI Attribution
 
 Below are the initial prompts used to generate the core scripts in this repository.
 
-> ⚠️ **Warning:** The prompts below represent only the *starting point* for each file. Significant follow-up prompts, iterative debugging, template adjustments, and manual tweaks were required to arrive at the current functional state of the code.
+**Warning:** The prompts below represent only the *starting point* for each file. Significant follow-up prompts, iterative debugging, template adjustments, and manual tweaks were required to arrive at the current functional state of the code.
 
 ### 1. `get_answer_export.py`
 > *"Write a Python script to scrape Crossword-Go puzzle answers from crosswordgo.net for a given level range. Extract the solution layout and export it as a clean 2D grid representation."*
