@@ -34,7 +34,7 @@ Below are the initial prompts used to generate the core scripts in this reposito
 
 ---
 
-## 🚀 Prerequisites & Setup
+## Prerequisites & Setup
 
 * **Android Device** with USB Debugging enabled
 * **ADB (Android Debug Bridge)** installed and added to your system PATH
